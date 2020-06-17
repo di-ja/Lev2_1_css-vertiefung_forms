@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+</style>
+
+html{
+    scroll-behavior: smooth;
+}
+* {margin:0; padding:0}
+body{
+    font-family: 'Open Sans', sans-serif;
+    width: 30%;
+    font-size: 18px;
+    padding-top: 100px;
+    margin: 0 auto;
+}
+form {
+    background: rgb(222, 222, 222);
+    padding-top: 16px;
+    padding-bottom: 1%;
+}
+input {
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 16px;
+    padding: 5%;
+    font-size: 1em;
+}
+textarea {
+    font-family: 'Open Sans', sans-serif;
+    display: block;
+    resize: vertical;
+    width: 80%;
+    margin: 0 auto;
+    padding: 5%;
+    font-size: 1em;
+}
+.button {
+    font-family: 'Open Sans', sans-serif;
+    background: green;
+    border: 0;
+    width: 90%;
+    font-size: 1em;
+    color: white;
+    margin: 4%;
+    }
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5em;
+    color: white;
+    font-weight: 400;
+    text-align: center;
+    background: green;
+    padding: 0.8em;
+
+}
